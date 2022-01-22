@@ -1,2 +1,4 @@
 # geoprocessing-GIS-automation
-some scripts for geoprocessing and GIS automation. just as a reminder this repo is for GIS student at EHTP
+
+one of the things that I liked in last semester is the automation of spatial data processing using arcgis package, ArcPy. and those are some of the class projects that I've worked on.
+
